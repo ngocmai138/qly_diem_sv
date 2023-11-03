@@ -1,1 +1,1 @@
-# quan_ly_diem_sinh_vien
+# qly_diem_sv
